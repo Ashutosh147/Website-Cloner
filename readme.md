@@ -12,3 +12,4 @@ Licensed under *Mozilla Public License, version 2.0*
 This is old, And right now most of the website works in some different ways. Might not work.
 Try at own risk.
 Created for some personal usage.
+It's amazing.
